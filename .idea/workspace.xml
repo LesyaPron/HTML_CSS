@@ -4,16 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="220f0495-d20e-4f12-934e-e44351ce861e" name="Changes" comment="I changed many files">
+    <list default="true" id="220f0495-d20e-4f12-934e-e44351ce861e" name="Changes" comment="I changed one file">
+      <change afterPath="$PROJECT_DIR$/lesson2/dodatkowe pojasnennia.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/dodatkowe.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homeworks/hw1/08042026_1/08042026.css" beforeDir="false" afterPath="$PROJECT_DIR$/homeworks/hw1_sproba/08042026_1/08042026.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homeworks/hw1/08042026_1/08042026.html" beforeDir="false" afterPath="$PROJECT_DIR$/homeworks/hw1_sproba/08042026_1/08042026.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homeworks/hw1/08042026_1/08042026_task1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/homeworks/hw1_sproba/08042026_1/08042026_task1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homeworks/hw1/08042026_2/task2.html" beforeDir="false" afterPath="$PROJECT_DIR$/homeworks/hw1_sproba/08042026_2/task2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homeworks/hw1/08042026_2/task2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/homeworks/hw1_sproba/08042026_2/task2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homeworks/hw1/08042026_3/task3.css" beforeDir="false" afterPath="$PROJECT_DIR$/homeworks/hw1_sproba/08042026_3/task3.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homeworks/hw1/08042026_3/task3.html" beforeDir="false" afterPath="$PROJECT_DIR$/homeworks/hw1_sproba/08042026_3/task3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homeworks/hw1/08042026_3/task3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/homeworks/hw1_sproba/08042026_3/task3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/lesson2-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/lesson2-1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +104,9 @@
       <workItem from="1775824694707" duration="6176000" />
       <workItem from="1775896423151" duration="5478000" />
       <workItem from="1775927265286" duration="466000" />
-      <workItem from="1776017728859" duration="630000" />
+      <workItem from="1776017728859" duration="642000" />
+      <workItem from="1776018710925" duration="5640000" />
+      <workItem from="1776450521452" duration="1711000" />
     </task>
     <task id="LOCAL-00001" summary="I did homework">
       <option name="closed" value="true" />
@@ -286,7 +284,23 @@
       <option name="project" value="LOCAL" />
       <updated>1775904970350</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="I changed many files">
+      <option name="closed" value="true" />
+      <created>1776018607407</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1776018607407</updated>
+    </task>
+    <task id="LOCAL-00024" summary="I changed one file">
+      <option name="closed" value="true" />
+      <created>1776018817436</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1776018817436</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -300,9 +314,9 @@
     <MESSAGE value="I changed one file again" />
     <MESSAGE value="I changed two files again" />
     <MESSAGE value="I changed three files" />
-    <MESSAGE value="I changed one file" />
     <MESSAGE value="I changed two files" />
     <MESSAGE value="I changed many files" />
-    <option name="LAST_COMMIT_MESSAGE" value="I changed many files" />
+    <MESSAGE value="I changed one file" />
+    <option name="LAST_COMMIT_MESSAGE" value="I changed one file" />
   </component>
 </project>
