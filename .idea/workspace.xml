@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="220f0495-d20e-4f12-934e-e44351ce861e" name="Changes" comment="I changed two files">
-      <change afterPath="$PROJECT_DIR$/homeworks/Lesia/Lesia_hw1_task1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworks/Lesia/Lesia_hw1_task1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homeworks/Lesia_hw1_task1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homeworks/Lesia_hw1_task1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homeworks/Lesia_hw1_task2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homeworks/Lesia_hw1_task3.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homeworks/Lesia_hw1_task3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homeworks/Lesia_hw1_task5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homeworks/Lesia_hw41_task4.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +62,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "git-widget-placeholder": "master",
     "javascript.preferred.runtime.type.id": "node",
-    "last_opened_file_path": "C:/Users/Леся/WebstormProjects/HTML_CSS/homeworks/Lesia",
+    "last_opened_file_path": "C:/Users/Леся/WebstormProjects/HTML_CSS/homeworks/Lesia/Lesia_hw1",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -69,7 +74,12 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Леся\WebstormProjects\HTML_CSS\homeworks\Lesia\Lesia_hw1" />
+      <recent name="C:\Users\Леся\WebstormProjects\HTML_CSS\homeworks\Lesia" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Леся\WebstormProjects\HTML_CSS\homeworks\Lesia\Lesia_hw1" />
       <recent name="C:\Users\Леся\WebstormProjects\HTML_CSS\lesson1\img" />
     </key>
   </component>
@@ -107,7 +117,7 @@
       <workItem from="1776450521452" duration="5034000" />
       <workItem from="1776493762923" duration="3799000" />
       <workItem from="1776512435233" duration="9955000" />
-      <workItem from="1776529302410" duration="10889000" />
+      <workItem from="1776529302410" duration="11481000" />
     </task>
     <task id="LOCAL-00001" summary="I did homework">
       <option name="closed" value="true" />
@@ -365,7 +375,23 @@
       <option name="project" value="LOCAL" />
       <updated>1776541898931</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="I changed two files">
+      <option name="closed" value="true" />
+      <created>1776542364869</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1776542364869</updated>
+    </task>
+    <task id="LOCAL-00034" summary="I changed two files">
+      <option name="closed" value="true" />
+      <created>1776542435803</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1776542435803</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
