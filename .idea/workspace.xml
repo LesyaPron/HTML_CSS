@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="220f0495-d20e-4f12-934e-e44351ce861e" name="Changes" comment="I changed one file">
-      <change afterPath="$PROJECT_DIR$/lesson2/dodatkowe pojasnennia.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2/dodatkowe.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2/style.css" afterDir="false" />
+    <list default="true" id="220f0495-d20e-4f12-934e-e44351ce861e" name="Changes" comment="I changed two files">
+      <change afterPath="$PROJECT_DIR$/lesson2/hover tif.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/kontejnery.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/shryfty.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/shryfty.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2/lesson2-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/lesson2-1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +20,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="text file" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -106,7 +106,9 @@
       <workItem from="1775927265286" duration="466000" />
       <workItem from="1776017728859" duration="642000" />
       <workItem from="1776018710925" duration="5640000" />
-      <workItem from="1776450521452" duration="1711000" />
+      <workItem from="1776450521452" duration="5034000" />
+      <workItem from="1776493762923" duration="3799000" />
+      <workItem from="1776512435233" duration="1801000" />
     </task>
     <task id="LOCAL-00001" summary="I did homework">
       <option name="closed" value="true" />
@@ -300,7 +302,15 @@
       <option name="project" value="LOCAL" />
       <updated>1776018817436</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="I changed two files">
+      <option name="closed" value="true" />
+      <created>1776453025884</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1776453025884</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -314,9 +324,9 @@
     <MESSAGE value="I changed one file again" />
     <MESSAGE value="I changed two files again" />
     <MESSAGE value="I changed three files" />
-    <MESSAGE value="I changed two files" />
     <MESSAGE value="I changed many files" />
     <MESSAGE value="I changed one file" />
-    <option name="LAST_COMMIT_MESSAGE" value="I changed one file" />
+    <MESSAGE value="I changed two files" />
+    <option name="LAST_COMMIT_MESSAGE" value="I changed two files" />
   </component>
 </project>
