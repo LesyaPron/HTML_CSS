@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="220f0495-d20e-4f12-934e-e44351ce861e" name="Changes" comment="I changed a lot of files">
-      <change afterPath="$PROJECT_DIR$/homeworks/Lesia/Lesia_hw2/Lesia_hw2_task1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworks/Lesia/Lesia_hw2/Lesia_hw2_task2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworks/Lesia/Lesia_hw2/Lesia_hw2_task3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworks/Lesia/Lesia_hw2/Lesia_hw2_task4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="220f0495-d20e-4f12-934e-e44351ce861e" name="Changes" comment="I changed one file">
+      <change beforePath="$PROJECT_DIR$/homeworks/Lesia/Lesia_hw2/Lesia_hw2_task1.html" beforeDir="false" afterPath="$PROJECT_DIR$/homeworks/Lesia/Lesia_hw2/Lesia_hw2_task1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +112,7 @@
       <workItem from="1776493762923" duration="3799000" />
       <workItem from="1776512435233" duration="9955000" />
       <workItem from="1776529302410" duration="12129000" />
-      <workItem from="1776588009157" duration="7165000" />
+      <workItem from="1776588009157" duration="8475000" />
     </task>
     <task id="LOCAL-00001" summary="I did homework">
       <option name="closed" value="true" />
@@ -398,7 +394,23 @@
       <option name="project" value="LOCAL" />
       <updated>1776542981500</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="I changed a lot of files">
+      <option name="closed" value="true" />
+      <created>1776598387053</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1776598387053</updated>
+    </task>
+    <task id="LOCAL-00037" summary="I changed one file">
+      <option name="closed" value="true" />
+      <created>1776598553943</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1776598553943</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -413,9 +425,9 @@
     <MESSAGE value="I changed two files again" />
     <MESSAGE value="I changed three files" />
     <MESSAGE value="I changed many files" />
-    <MESSAGE value="I changed one file" />
     <MESSAGE value="I changed two files" />
     <MESSAGE value="I changed a lot of files" />
-    <option name="LAST_COMMIT_MESSAGE" value="I changed a lot of files" />
+    <MESSAGE value="I changed one file" />
+    <option name="LAST_COMMIT_MESSAGE" value="I changed one file" />
   </component>
 </project>
