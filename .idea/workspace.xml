@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="220f0495-d20e-4f12-934e-e44351ce861e" name="Changes" comment="I changed two files">
-      <change beforePath="$PROJECT_DIR$/homeworks/Lesia/Lesia_hw2/Leia_hw2_task2.html" beforeDir="false" afterPath="$PROJECT_DIR$/homeworks/Lesia/Lesia_hw2/Lesia_hw2_task2.html" afterDir="false" />
+    <list default="true" id="220f0495-d20e-4f12-934e-e44351ce861e" name="Changes" comment="I changed one file">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homeworks/Lesia/Lesia_hw2/Lesia_hw2_task3.html" beforeDir="false" afterPath="$PROJECT_DIR$/homeworks/Lesia/Lesia_hw2/Lesia_hw2_task3.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +120,8 @@
       <workItem from="1776794172140" duration="2435000" />
       <workItem from="1776798891787" duration="660000" />
       <workItem from="1776888719149" duration="609000" />
-      <workItem from="1777096113011" duration="7891000" />
+      <workItem from="1777096113011" duration="12692000" />
+      <workItem from="1777138349536" duration="7635000" />
     </task>
     <task id="LOCAL-00001" summary="I did homework">
       <option name="closed" value="true" />
@@ -497,7 +499,15 @@
       <option name="project" value="LOCAL" />
       <updated>1777108830239</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="I changed one file">
+      <option name="closed" value="true" />
+      <created>1777114904833</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1777114904833</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -513,8 +523,8 @@
     <MESSAGE value="I changed three files" />
     <MESSAGE value="I changed a lot of files" />
     <MESSAGE value="I changed many files" />
-    <MESSAGE value="I changed one file" />
     <MESSAGE value="I changed two files" />
-    <option name="LAST_COMMIT_MESSAGE" value="I changed two files" />
+    <MESSAGE value="I changed one file" />
+    <option name="LAST_COMMIT_MESSAGE" value="I changed one file" />
   </component>
 </project>
