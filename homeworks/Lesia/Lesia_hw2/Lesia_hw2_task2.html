@@ -6,12 +6,45 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
+    <style>
+        .wrapper {
+            height: 100%;
+            weight: 100%;
+            background-color: indianred;
+            display: flex;
+            justify-content: space-evenly;
+            align-items: center;
+        }
+
+        .item {
+            width: 100px;
+            height: 100px;
+            background: red;
+            box-shadow: 4px 3px 31px -18px rgba(39, 41, 39, 0.0);
+            border-radius: 0;
+        }
+
+            .item:hover {
+                background-color: gray;
+                border-radius: 50%;
+            }
+    </style>
 </head>
 <body>
+<div class="wrapper">
+    <div class="item"></div>
+    <div class="item"></div>
+    <div class="item"></div>
+    <div class="item"></div>
+    <div class="item"></div>
+</div>
 <p>
     Task 2
 
     Завдання на картинці hw2.2
+    Створи 6 однакових блоків розміром 100 на 100 пікселів.
+    Розмісти їх в одну лінію та вирівняй по вертикалі та горизонталі.
+    При наведенні на кожен блок квадрат повинен ставати колом та змінювати свій колір.
 
 </p>
 </body>
