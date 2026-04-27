@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="220f0495-d20e-4f12-934e-e44351ce861e" name="Changes" comment="I changed one file">
+      <change afterPath="$PROJECT_DIR$/homeworks/Lesia/Lesia_hw2/Lesia_hw2_task3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeworks/Lesia/Lesia_hw2/Lesia_hw2_task3_second.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homeworks/Lesia/Lesia_hw2/Lesia_hw2_task3.html" beforeDir="false" afterPath="$PROJECT_DIR$/homeworks/Lesia/Lesia_hw2/Lesia_hw2_task3.html" afterDir="false" />
     </list>
@@ -57,7 +59,7 @@
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Леся/WebstormProjects/HTML_CSS/homeworks/Lesia/Lesia_hw1&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Леся/WebstormProjects/HTML_CSS/homeworks/Lesia/Lesia_hw2&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -70,6 +72,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Леся\WebstormProjects\HTML_CSS\homeworks\Lesia\Lesia_hw2" />
       <recent name="C:\Users\Леся\WebstormProjects\HTML_CSS\homeworks\Lesia\Lesia_hw1" />
       <recent name="C:\Users\Леся\WebstormProjects\HTML_CSS\homeworks\Lesia" />
     </key>
@@ -121,7 +124,10 @@
       <workItem from="1776798891787" duration="660000" />
       <workItem from="1776888719149" duration="609000" />
       <workItem from="1777096113011" duration="12692000" />
-      <workItem from="1777138349536" duration="7635000" />
+      <workItem from="1777138349536" duration="7858000" />
+      <workItem from="1777167245586" duration="2516000" />
+      <workItem from="1777200868667" duration="2025000" />
+      <workItem from="1777315904275" duration="311000" />
     </task>
     <task id="LOCAL-00001" summary="I did homework">
       <option name="closed" value="true" />
@@ -507,7 +513,15 @@
       <option name="project" value="LOCAL" />
       <updated>1777114904833</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="I changed one file">
+      <option name="closed" value="true" />
+      <created>1777149383022</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1777149383022</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
