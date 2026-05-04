@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="220f0495-d20e-4f12-934e-e44351ce861e" name="Changes" comment="I changed one file">
-      <change afterPath="$PROJECT_DIR$/homeworks/Lesia/Lesia_hw2/Lesia_hw2_task3.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworks/Lesia/Lesia_hw2/Lesia_hw2_task3_second.html" afterDir="false" />
+    <list default="true" id="220f0495-d20e-4f12-934e-e44351ce861e" name="Changes" comment="I changed four files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homeworks/Lesia/Lesia_hw2/Lesia_hw2_task3.css" beforeDir="false" afterPath="$PROJECT_DIR$/homeworks/Lesia/Lesia_hw2/Lesia_hw2_task3.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homeworks/Lesia/Lesia_hw2/Lesia_hw2_task3.html" beforeDir="false" afterPath="$PROJECT_DIR$/homeworks/Lesia/Lesia_hw2/Lesia_hw2_task3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homeworks/Lesia/Lesia_hw2/Lesia_hw2_task3_second.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +19,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="text file" />
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -127,15 +127,8 @@
       <workItem from="1777138349536" duration="7858000" />
       <workItem from="1777167245586" duration="2516000" />
       <workItem from="1777200868667" duration="2025000" />
-      <workItem from="1777315904275" duration="311000" />
-    </task>
-    <task id="LOCAL-00001" summary="I did homework">
-      <option name="closed" value="true" />
-      <created>1775755882301</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1775755882301</updated>
+      <workItem from="1777315904275" duration="1307000" />
+      <workItem from="1777911488257" duration="2822000" />
     </task>
     <task id="LOCAL-00002" summary="I rename one file">
       <option name="closed" value="true" />
@@ -521,7 +514,15 @@
       <option name="project" value="LOCAL" />
       <updated>1777149383022</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="I changed four files">
+      <option name="closed" value="true" />
+      <created>1777316300441</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1777316300441</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -539,6 +540,7 @@
     <MESSAGE value="I changed many files" />
     <MESSAGE value="I changed two files" />
     <MESSAGE value="I changed one file" />
-    <option name="LAST_COMMIT_MESSAGE" value="I changed one file" />
+    <MESSAGE value="I changed four files" />
+    <option name="LAST_COMMIT_MESSAGE" value="I changed four files" />
   </component>
 </project>
