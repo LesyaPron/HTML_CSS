@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="220f0495-d20e-4f12-934e-e44351ce861e" name="Changes" comment="I changed five files">
-      <change afterPath="$PROJECT_DIR$/lesson3/Lesia_lesson3_4.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/Lesia_lesson3_4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/Lesia_lesson3_4_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/Lesia_lesson3_6.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/Lesia_lesson3_6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeworks/Lesia/Lesia_hw3/Lesia_hw3_task1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeworks/Lesia/Lesia_hw3/Lesia_hw3_task2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeworks/Lesia/Lesia_hw3/Lesia_hw3_task3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,8 +19,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="text file" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -136,6 +134,8 @@
       <workItem from="1778311689417" duration="12923000" />
       <workItem from="1778352261799" duration="4170000" />
       <workItem from="1778400749305" duration="2511000" />
+      <workItem from="1778404083237" duration="239000" />
+      <workItem from="1778408806807" duration="306000" />
     </task>
     <task id="LOCAL-00006" summary="I changed two files again">
       <option name="closed" value="true" />
